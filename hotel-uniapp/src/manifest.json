@@ -1,0 +1,28 @@
+{
+  "name": "Hotel Platform",
+  "appid": "__UNI_HOTEL__",
+  "description": "International Hotel Booking Platform",
+  "versionName": "0.1.0",
+  "versionCode": 100,
+  "transformPx": false,
+  "app-plus": {
+    "orientation": ["portrait-primary"],
+    "distribute": {
+      "android": { "package": "com.example.hotel" },
+      "ios": { "bundleIdentifier": "com.example.hotel" }
+    }
+  },
+  "mp-weixin": {
+    "appid": "",
+    "setting": { "urlCheck": false },
+    "lazyCodeLoading": "requiredComponents",
+    "usingComponents": {}
+  },
+  "mp-alipay": {
+    "appid": "",
+    "usingComponents": {}
+  },
+  "h5": {
+    "optimization": { "treeShaking": { "enable": true } }
+  }
+}

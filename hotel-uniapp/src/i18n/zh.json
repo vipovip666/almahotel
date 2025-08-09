@@ -1,0 +1,39 @@
+{
+  "home": {
+    "title": "发现优质酒店",
+    "searchPlaceholder": "目的地/酒店/地标",
+    "checkin": "入住",
+    "checkout": "退房",
+    "search": "搜索",
+    "hotDestinations": "热门目的地",
+    "forYou": "为你推荐"
+  },
+  "search": {
+    "filter": "筛选",
+    "sort": "排序",
+    "map": "地图",
+    "price": "价格",
+    "star": "星级",
+    "amenities": "设施",
+    "rating": "评分"
+  },
+  "booking": {
+    "contact": "联系人",
+    "contactPhone": "联系电话",
+    "coupon": "优惠券",
+    "points": "积分",
+    "payNow": "立即支付"
+  },
+  "order": {
+    "myOrders": "我的订单"
+  },
+  "service": {
+    "title": "客房服务",
+    "request": "提交请求"
+  },
+  "account": {
+    "title": "个人中心",
+    "login": "登录/注册",
+    "logout": "退出登录"
+  }
+}

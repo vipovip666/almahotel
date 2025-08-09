@@ -1,0 +1,20 @@
+@import './tokens.scss';
+
+page {
+  background-color: #f6f7fb;
+}
+
+.button-primary {
+  background: linear-gradient(135deg, #3B82F6, #2F6BFF);
+  color: #fff;
+  border-radius: 16rpx;
+  box-shadow: 0 8rpx 24rpx rgba(0,0,0,.06);
+}
+
+.card {
+  background: #fff;
+  border-radius: 16rpx;
+  box-shadow: 0 8rpx 24rpx rgba(0,0,0,.06);
+}
+
+.text-muted { color: #86909c; }
