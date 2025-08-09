@@ -1,0 +1,38 @@
+{
+  "easycom": {
+    "autoscan": true,
+    "custom": {
+      "^u-(.*)": "uview-plus/components/u-$1/u-$1.vue"
+    }
+  },
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "Hotel",
+    "navigationBarBackgroundColor": "#ffffff",
+    "backgroundColor": "#f6f7fb"
+  },
+  "tabBar": {
+    "color": "#707070",
+    "selectedColor": "#2F6BFF",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "black",
+    "list": [
+      { "pagePath": "pages/home/index", "text": "首页" },
+      { "pagePath": "pages/search/index", "text": "发现" },
+      { "pagePath": "pages/order/list", "text": "订单" },
+      { "pagePath": "pages/user/index", "text": "我的" }
+    ]
+  },
+  "pages": [
+    { "path": "pages/home/index", "style": { "navigationBarTitleText": "Home" } },
+    { "path": "pages/search/index", "style": { "navigationBarTitleText": "Search" } },
+    { "path": "pages/hotel/detail", "style": { "navigationBarTitleText": "Hotel" } },
+    { "path": "pages/room/booking", "style": { "navigationBarTitleText": "Booking" } },
+    { "path": "pages/order/list", "style": { "navigationBarTitleText": "Orders" } },
+    { "path": "pages/order/detail", "style": { "navigationBarTitleText": "Order Detail" } },
+    { "path": "pages/service/index", "style": { "navigationBarTitleText": "Services" } },
+    { "path": "pages/service/request", "style": { "navigationBarTitleText": "Request" } },
+    { "path": "pages/auth/login", "style": { "navigationBarTitleText": "Login" } },
+    { "path": "pages/user/index", "style": { "navigationBarTitleText": "Account" } }
+  ]
+}

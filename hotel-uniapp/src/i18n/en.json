@@ -1,0 +1,39 @@
+{
+  "home": {
+    "title": "Discover Quality Hotels",
+    "searchPlaceholder": "Destination/Hotel/Landmark",
+    "checkin": "Check-in",
+    "checkout": "Check-out",
+    "search": "Search",
+    "hotDestinations": "Hot Destinations",
+    "forYou": "Recommended"
+  },
+  "search": {
+    "filter": "Filter",
+    "sort": "Sort",
+    "map": "Map",
+    "price": "Price",
+    "star": "Star",
+    "amenities": "Amenities",
+    "rating": "Rating"
+  },
+  "booking": {
+    "contact": "Contact",
+    "contactPhone": "Phone",
+    "coupon": "Coupon",
+    "points": "Points",
+    "payNow": "Pay Now"
+  },
+  "order": {
+    "myOrders": "My Orders"
+  },
+  "service": {
+    "title": "Room Services",
+    "request": "Submit Request"
+  },
+  "account": {
+    "title": "Account",
+    "login": "Login / Register",
+    "logout": "Logout"
+  }
+}
